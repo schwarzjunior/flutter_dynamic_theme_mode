@@ -1,0 +1,21 @@
+name: flutter_dynamic_theme_mode
+description: A Flutter package that changes the app's theme mode dynamically.
+version: 0.0.1
+author: Carlos Schwarz Junior
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  shared_preferences: ^0.5.3+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
